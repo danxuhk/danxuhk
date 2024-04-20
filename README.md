@@ -127,7 +127,6 @@
 
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrea-pilzer&repo=unsup-stereo-depthGAN)](https://github.com/andrea-pilzer/unsup-stereo-depthGAN)
 
 </td>
 
