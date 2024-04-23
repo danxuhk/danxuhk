@@ -126,7 +126,8 @@
 </td>
 
 <td>
-
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactive-3d&repo=interactive3d)](https://github.com/interactive-3d/interactive3d)
 
 </td>
 
