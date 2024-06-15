@@ -81,6 +81,8 @@
 
 <table>
 <tr>
+</tr>
+<tr>
 
 <td>
   
@@ -98,6 +100,8 @@
 </table>
 
 <table>
+<tr>
+</tr>
 <tr>
 
 <td>
@@ -118,6 +122,8 @@
 
 <table>
 <tr>
+</tr>
+<tr>
 
 <td>
   
@@ -136,6 +142,8 @@
 </table>
 
 <table>
+<tr>
+</tr>
 <tr>
 
 <td>
