@@ -152,6 +152,13 @@
 
 </td>
 
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&repo=GScream)](https://github.com/W-Ted/GScream)
+
+</td>
+
 </tr>
+
 
 </table>
