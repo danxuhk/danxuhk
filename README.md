@@ -176,6 +176,11 @@
 
 </td>
 
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holistic-Motion2D&repo=Tender)](https://github.com/Holistic-Motion2D/Tender/)
+
+</td>
 
 </tr>
 
