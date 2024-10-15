@@ -199,7 +199,7 @@
 
 <td>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=3dgs-det)](https://github.com/yangcaoai/3dgs-det)
+
 
 </td>
 
