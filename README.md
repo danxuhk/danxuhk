@@ -2,7 +2,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&repo=CVPR2022-DaGAN&theme=ambient_gradient&description_lines_count=3)](https://github.com/harlanhong/CVPR2022-DaGAN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&repo=Switch-NeRF&theme=ambient_gradient&description_lines_count=3)](https://github.com/MiZhenxing/Switch-NeRF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=Multi-Task-Transformer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=Multi-Task-Transformer&theme=ambient_gradient&description_lines_count=3)](https://github.com/prismformore/Multi-Task-Transformer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&repo=GBi-Net&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xulianuwa&repo=MCTformer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
