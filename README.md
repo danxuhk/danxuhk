@@ -11,10 +11,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&repo=ICCV2023-MCNET&theme=ambient_gradient&description_lines_count=3)](https://github.com/harlanhong/ICCV2023-MCNET)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=CoDA_NeurIPS2023&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrea-pilzer&repo=unsup-stereo-depthGAN&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&repo=UDC-NeRF&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiDiff&repo=bidiff&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=CoDA_NeurIPS2023&theme=ambient_gradient&description_lines_count=3)](https://github.com/yangcaoai/CoDA_NeurIPS2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andrea-pilzer&repo=unsup-stereo-depthGAN&theme=ambient_gradient&description_lines_count=3)](https://github.com/andrea-pilzer/unsup-stereo-depthGAN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&repo=UDC-NeRF&theme=ambient_gradient&description_lines_count=3)](https://github.com/W-Ted/UDC-NeRF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiDiff&repo=bidiff&theme=ambient_gradient&description_lines_count=3)](https://github.com/BiDiff/bidiff)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=DiffusionMTL&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactive-3d&repo=interactive3d&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
