@@ -233,3 +233,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=interactive-3d&repo=interactive3d&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qwang666&repo=RoomTex-&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holistic-Motion2D&repo=Tender&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanchi-3dv&repo=diff-gaussian-rasterization-for-gsslam&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=3DGS-DET&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
