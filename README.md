@@ -214,3 +214,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=Multi-Task-Transformer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&repo=GBi-Net&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xulianuwa&repo=MCTformer&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Bash-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danxuhk&repo=StructuredAttentionDepthEstimation&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danxuhk&repo=ContinuousCRF-CNN&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&repo=ICCV2023-MCNET&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/DevOps-Golang-tools)
+
