@@ -21,9 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhongyingji&repo=CVT-xRF&theme=default&description_lines_count=3)](https://github.com/zhongyingji/CVT-xRF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&repo=GScream&theme=default&description_lines_count=3)](https://github.com/W-Ted/GScream)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=DiffusionMTL&theme=default&description_lines_count=3)](https://github.com/prismformore/DiffusionMTL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qwang666&repo=RoomTex-&theme=default&description_lines_count=3)](https://github.com/qwang666/RoomTex-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holistic-Motion2D&repo=Tender&theme=default&description_lines_count=3)](https://github.com/Holistic-Motion2D/Tender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanchi-3dv&repo=diff-gaussian-rasterization-for-gsslam&theme=default&description_lines_count=3)](https://github.com/yanchi-3dv/diff-gaussian-rasterization-for-gsslam)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=3DGS-DET&theme=default&description_lines_count=3)](https://github.com/yangcaoai/3DGS-DET)
