@@ -24,4 +24,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qwang666&radfasf&arasfda&repo=RoomTex-&theme=default&description_lines_count=3)](https://github.com/qwang666/RoomTex-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holistic-Motion2D&radfasf&arasfda&repo=Tender&theme=default&description_lines_count=3)](https://github.com/Holistic-Motion2D/Tender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanchi-3dv&radfasf&arasfda&repo=diff-gaussian-rasterization-for-gsslam&theme=default&description_lines_count=3)](https://github.com/yanchi-3dv/diff-gaussian-rasterization-for-gsslam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&radfasf&arasfda&repo=3DGS-DET&theme=default&description_lines_count=3)](https://github.com/yangcaoai/3DGS-DET)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=3DGS-DET&theme=default&description_lines_count=3)](https://github.com/yangcaoai/3DGS-DET)
