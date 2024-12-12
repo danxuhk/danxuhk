@@ -25,3 +25,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Holistic-Motion2D&radfasf&arasfd4&repo=Tender&theme=default&description_lines_count=3)](https://github.com/Holistic-Motion2D/Tender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanchi-3dv&radfasf&arasfd4&repo=diff-gaussian-rasterization-for-gsslam&theme=default&description_lines_count=3)](https://github.com/yanchi-3dv/diff-gaussian-rasterization-for-gsslam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&radfasf&arasfd4&repo=3DGS-DET&theme=default&description_lines_count=3)](https://github.com/yangcaoai/3DGS-DET)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShaelynZ&radfasf&arasfd4&repo=synergize-motion-appearance&theme=default&description_lines_count=3)](https://github.com/ShaelynZ/synergize-motion-appearance)
+
