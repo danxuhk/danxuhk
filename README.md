@@ -28,4 +28,5 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShaelynZ&radfasf&arasfd86&repo=synergize-motion-appearance&theme=default&description_lines_count=3)](https://github.com/ShaelynZ/synergize-motion-appearance)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&radfasf&arasfd86&repo=F3D-Gaus&theme=default&description_lines_count=3)](https://github.com/W-Ted/F3D-Gaus)
 
