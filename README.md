@@ -30,5 +30,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShaelynZ&radfasf&arasfd113&repo=synergize-motion-appearance&theme=default&description_lines_count=3)](https://github.com/ShaelynZ/synergize-motion-appearance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&radfasf&arasfd113&repo=F3D-Gaus&theme=default&description_lines_count=3)](https://github.com/W-Ted/F3D-Gaus)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd113&repo=ThinkDiff&theme=default&description_lines_count=3)]((https://github.com/MiZhenxing/ThinkDiff))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd113&repo=ThinkDiff&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/ThinkDiff)
 
