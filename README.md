@@ -33,3 +33,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd150&repo=ThinkDiff&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/ThinkDiff)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhongyingji&radfasf&arasfd150&repo=guidedvd-3dgs&theme=default&description_lines_count=3)](https://github.com/zhongyingji/guidedvd-3dgs)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiuJF1226&radfasf&arasfd150&repo=GaussHDR&theme=default&description_lines_count=3)](https://github.com/LiuJF1226/GaussHDR)
+
+
