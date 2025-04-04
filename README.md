@@ -34,5 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhongyingji&radfasf&arasfd174&repo=guidedvd-3dgs&theme=default&description_lines_count=3)](https://github.com/zhongyingji/guidedvd-3dgs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiuJF1226&radfasf&arasfd174&repo=GaussHDR&theme=default&description_lines_count=3)](https://github.com/LiuJF1226/GaussHDR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&radfasf&arasfd174&repo=ACTalker&theme=default&description_lines_count=3)](https://github.com/harlanhong/ACTalker)
+
 
 
