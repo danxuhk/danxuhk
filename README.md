@@ -36,6 +36,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&radfasf&arasfd410&repo=ACTalker&theme=default&description_lines_count=3)](https://github.com/harlanhong/ACTalker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hkdsc&radfasf&arasfd410&repo=copart&theme=default&description_lines_count=3)](https://github.com/hkdsc/copart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzpscott&radfasf&arasfd410&repo=hybrid-radiance-fields&theme=default&description_lines_count=3)](https://github.com/wzpscott/hybrid-radiance-fields)
 
 
 
