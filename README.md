@@ -34,7 +34,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiuJF1226&radfasf&arasfd413&repo=GaussHDR&theme=default&description_lines_count=3)](https://github.com/LiuJF1226/GaussHDR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&radfasf&arasfd413&repo=ACTalker&theme=default&description_lines_count=3)](https://github.com/harlanhong/ACTalker)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hkdsc&radfasf&arasfd413&repo=copart&theme=default&description_lines_count=3)](https://github.com/hkdsc/copart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wzpscott&radfasf&arasfd413&repo=hybrid-radiance-fields&theme=default&description_lines_count=3)](https://github.com/wzpscott/hybrid-radiance-fields)
 
