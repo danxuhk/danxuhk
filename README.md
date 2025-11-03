@@ -39,4 +39,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanchi-3dv&radfasf&arasfd514&repo=PG-Occ&theme=default&description_lines_count=3)](https://github.com/yanchi-3dv/PG-Occ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hkdsc&radfasf&arasfd514&repo=fullpart&theme=default&description_lines_count=3)](https://github.com/hkdsc/fullpart)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LiuJF1226&radfasf&arasfd514&repo=Mono4DGS-HDR&theme=default&description_lines_count=3)](https://github.com/LiuJF1226/Mono4DGS-HDR)
