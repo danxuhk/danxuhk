@@ -1,5 +1,4 @@
 ## Highlighted research projects of our research group:
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&radfasf&arasfd552&repo=CVPR2022-DaGAN&theme=default&description_lines_count=3)](https://github.com/harlanhong/CVPR2022-DaGAN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd552&repo=Switch-NeRF&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/Switch-NeRF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&radfasf&arasfd552&repo=Multi-Task-Transformer&theme=default&description_lines_count=3)](https://github.com/prismformore/Multi-Task-Transformer)
