@@ -40,3 +40,7 @@
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=hkdsc&radfasf&arasfd555&repo=fullpart&theme=default&description_lines_count=3)](https://github.com/hkdsc/fullpart)
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=LiuJF1226&radfasf&arasfd555&repo=Mono4DGS-HDR&theme=default&description_lines_count=3)](https://github.com/LiuJF1226/Mono4DGS-HDR)
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd555&repo=One4D&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/One4D)
+
+[![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=wzpscott&radfasf&arasfd555&repo=flashvggt&theme=default&description_lines_count=3)](https://github.com/wzpscott/flashvggt)
+
+https://github.com/wzpscott/flashvggt
