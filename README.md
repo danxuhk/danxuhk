@@ -42,5 +42,3 @@
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd555&repo=One4D&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/One4D)
 
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=wzpscott&radfasf&arasfd555&repo=flashvggt&theme=default&description_lines_count=3)](https://github.com/wzpscott/flashvggt)
-
-https://github.com/wzpscott/flashvggt
