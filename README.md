@@ -42,6 +42,4 @@
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd645&repo=One4D&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/One4D)
 
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=wzpscott&radfasf&arasfd645&repo=flashvggt&theme=default&description_lines_count=3)](https://github.com/wzpscott/flashvggt)
-[![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=Jacky1128&radfasf&arasfd645&repo=Rep-MTL&theme=default&description_lines_count=3)](https://github.com/Jacky1128/Rep-MTL)
-
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=W-Ted&radfasf&arasfd645&repo=N3D-VLM&theme=default&description_lines_count=3)](https://github.com/W-Ted/N3D-VLM)
