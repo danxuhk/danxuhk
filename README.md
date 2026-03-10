@@ -44,3 +44,5 @@
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=wzpscott&radfasf&arasfd676&repo=flashvggt&theme=default&description_lines_count=3)](https://github.com/wzpscott/flashvggt)
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=W-Ted&radfasf&arasfd676&repo=N3D-VLM&theme=default&description_lines_count=3)](https://github.com/W-Ted/N3D-VLM)
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=yangcaoai&radfasf&arasfd676&repo=VGGT-Det-CVPR2026&theme=default&description_lines_count=3)](https://github.com/yangcaoai/VGGT-Det-CVPR2026)
+[![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=CARE-Edit&radfasf&arasfd676&repo=Code&theme=default&description_lines_count=3)](https://github.com/CARE-Edit/Code)
+
