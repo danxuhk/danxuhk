@@ -46,3 +46,4 @@
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=yangcaoai&radfasf&arasfd676&repo=VGGT-Det-CVPR2026&theme=default&description_lines_count=3)](https://github.com/yangcaoai/VGGT-Det-CVPR2026)
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=CARE-Edit&radfasf&arasfd676&repo=Code&theme=default&description_lines_count=3)](https://github.com/CARE-Edit/Code)
 
+[![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=WildActor&radfasf&arasfd676&repo=WildActor&theme=default&description_lines_count=3)](https://github.com/WildActor/WildActor)
