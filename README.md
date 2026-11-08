@@ -1,7 +1,7 @@
 ## Highlighted research projects of our research group:
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=harlanhong&radfasf&arasfd870&repo=CVPR2022-DaGAN&theme=default&description_lines_count=3)](https://github.com/harlanhong/CVPR2022-DaGAN)
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd870&repo=Switch-NeRF&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/Switch-NeRF)
-[![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=prismformore&radfasf&arasfd870&repo=Multi-Task-Transformer&theme=default&description_lines_count=3)](https://github.com/prismformore/Multi-Task-Transformer)
+[![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=prismformore&radfasf&arasfd872&repo=Multi-Task-Transformer&theme=default&description_lines_count=3)](https://github.com/prismformore/Multi-Task-Transformer)
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=MiZhenxing&radfasf&arasfd870&repo=GBi-Net&theme=default&description_lines_count=3)](https://github.com/MiZhenxing/GBi-Net)
 
 [![Readme Card](https://github-readme-stats-znkt.vercel.app/api/pin/?username=xulianuwa&radfasf&arasfd870&repo=MCTformer&theme=default&description_lines_count=3)](https://github.com/xulianuwa/MCTformer)
